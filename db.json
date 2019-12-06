@@ -46,11 +46,68 @@
       "action": ""
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "category": [
+    {
+      "id": 1,
+      "name": "INR Bank Details Request"
+    },
+    {
+      "id": 2,
+      "name": "Account Verification"
+    },
+    {
+      "id": 3,
+      "name": "Login and Registration"
+    },
+    {
+      "id": 4,
+      "name": "Deposit"
+    },
+    {
+      "id": 5,
+      "name": "Withdrawal"
+    },
+    {
+      "id": 6,
+      "name": "Bonus & Promotions"
+    },
+    {
+      "id": 7,
+      "name": "Account Queries"
+    },
+    {
+      "id": 8,
+      "name": "Technical Queries"
+    },
+    {
+      "id": 9,
+      "name": "Product Info"
+    },
+    {
+      "id": 10,
+      "name": "Responsible Gambling'
+    },
+    {
+      "id": 11,
+      "name": "Data Privacy"
+    },
+    {
+      "id": 12,
+      "nam"e: "Feedback/Others"
+    }
   ],
-  "profile": {
-    "name": "typicode"
+  "outcome": {
+    {
+      "id": 1,
+      "name": "Player Disconnected"
+    },
+    {
+      "id": 2,
+      "name": "Concern Resolved"
+    },
+    {
+      "id": 3,
+      "name": "Pending Resolution"
+    }
   }
 }
