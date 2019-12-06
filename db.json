@@ -46,7 +46,7 @@
       "action": ""
     }
   ],
-  "category": [
+  "categories": [
     {
       "id": 1,
       "name": "INR Bank Details Request"
@@ -96,7 +96,7 @@
       "name": "Feedback/Others"
     }
   ],
-  "outcome": [
+  "outcomes": [
     {
       "id": 1,
       "name": "Player Disconnected"
