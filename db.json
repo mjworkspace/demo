@@ -96,7 +96,7 @@
       "name": "Feedback/Others"
     }
   ],
-  "outcome": {
+  "outcome": [
     {
       "id": 1,
       "name": "Player Disconnected"
@@ -109,5 +109,5 @@
       "id": 3,
       "name": "Pending Resolution"
     }
-  }
+  ]
 }
